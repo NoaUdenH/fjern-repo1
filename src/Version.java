@@ -34,10 +34,7 @@ public class Version {
         {
             System.out.println("your answer is " + (num1 / num2));
         }
-        if (operation.equals("*"))
-        {
-            System.out.println("your answer is " + (num1 * num2));
-        }
+        
 
 
     }
