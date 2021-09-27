@@ -21,7 +21,7 @@ public class Version {
         System.out.println("Please enter operation");
         operation = op.next();
 
-        if (operation.equals("+"))
+        if (operation.equals("*"))
         {
             System.out.println("your answer is " + (num1 + num2));
         }
