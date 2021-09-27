@@ -24,6 +24,7 @@ public class Version {
         if (operation.equals("+"))
         {
             System.out.println("your answer is " + (num1 + num2));
+            
         }
         if  (operation.equals("-"))
         {
@@ -32,6 +33,7 @@ public class Version {
 
         if (operation.equals("/"))
         {
+              System.out.println("This is a division process");
             System.out.println("your answer is " + (num1 / num2));
         }
         if (operation.equals("*"))
