@@ -34,7 +34,7 @@ public class Version {
         {
             System.out.println("your answer is " + (num1 / num2));
         }
-       
+       // gange funktionen er væk :O
 
 
     }
